@@ -1,0 +1,44 @@
+body {
+    background-color: #d8cbbc;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+#container {
+    background-color: white;
+    /* width: 800px; */
+    font-family: 'Cabin';
+}
+#topBar {
+    background-color: #FFC78F;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navLink {
+    text-decoration: none;
+    padding: 6px 16px;
+    color: #8B4A66;
+}
+.navLink:hover {
+    color: white;
+    background-color: #8B4A66;
+}
+#banner {
+    display: flex;
+    justify-content: center;
+}
+#newsLetter {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-image: url(img/newsletterbanner.jpg);
+}
+#subscribeForm {
+    display: flex;
+    justify-content: center;
+}
+#subscribeButton {
+    ###
+}
